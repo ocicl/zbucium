@@ -1,0 +1,10 @@
+* zbucium
+
+A Common Lisp library for a last.fm music player
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mihaiolteanu/zbucium.git   |
+| commit  | 5b0135f  |
+| systems | zbucium |
+|---------+-------------------------------------------|
+
